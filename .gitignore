@@ -1,0 +1,9 @@
+# Binaries
+tetragon-sentinel
+*.exe
+
+# Environment (secrets)
+.env
+.env.local
+*.log
+.DS_Store
